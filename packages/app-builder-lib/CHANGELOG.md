@@ -1,5 +1,11 @@
 # app-builder-lib
 
+## 22.14.3
+
+### Patch Changes
+
+- [#6247](https://github.com/electron-userland/electron-builder/pull/6247) [`a9ec90d5`](https://github.com/electron-userland/electron-builder/commit/a9ec90d539fdbb5786692629275b1a89bfd7aec4) Thanks [@erikrz](https://github.com/erikrz)! - fix (msi): broken shortcut icon for desktop and startup entry (#5965)
+
 ## 22.14.2
 
 ### Patch Changes
